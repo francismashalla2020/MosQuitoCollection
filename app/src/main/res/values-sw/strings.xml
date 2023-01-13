@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">MosQuitoCollection</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="ecologytool">MV-Ecology</string>
+    <string name="title_language">Mipangilio ya lugha</string>
+    <string name="goodmorning">Habari ya asubuhi</string>
+    <string name="goodafternoon">Habari ya mchana</string>
+    <string name="goodevening">Habari ya jioni</string>
+    <string name="goodnight">Habari ya usiku</string>
+    <string name="select_please">Tafadhali chagua lugha</string>
+    <string name="proceed">Endelea</string>
+    <string name="proceeds">Hifadhi &amp; Endelea</string>
+    <string name="prem">Taarifa za awali</string>
+    <string name="selectdistrict">Chagua namba ya wilaya</string>
+    <string name="selectHamlet">Chagua namba ya Nyumba</string>
+    <string name="selectWard">Chagua namba ya Kata</string>
+    <string name="selecttrap">Chagua aina ya mtego</string>
+    <string name="houseno">Namba ya Nyumba</string>
+    <string name="houseno_hint">Andika namba ya nyumba</string>
+    <string name="name_officer">Jina la muingiza taarifa</string>
+    <string name="pickdate">Chagua tarehe ya utafiti</string>
+    <string name="name_officerhint">Andika jina la muingizaji taarifa</string>
+    <string name="currenttime">Tarehe iliyochaguliwa: </string>
+    <string name="want">Je unahitaji</string>
+    <string name="save">Kuhifadhi &amp; kuendelea ?</string>
+    <string name="yes">Ndio</string>
+    <string name="no">Hapana</string>
+    <string name="part1">Sehemu ya Kwanza</string>
+    <string name="part2">Sehemu ya Pili</string>
+    <string name="part3">Sehemu ya Tatu</string>
+    <string name="part4">Sehemu ya Nne</string>
+    <string name="aedes1">Aedes aegypti aegypti (01)</string>
+    <string name="aedes2">Aedes egypti formosus (02)</string>
+    <string name="anoph">Anopheles stephensi (03)</string>
+    <string name="alba">Aedes albopictus (04)</string>
+    <string name="gambi">Anopheles gambiae (05)</string>
+    <string name="culex">Culex (06)</string>
+    <string name="other">Nyingine (07)</string>
+    <string name="providename">Andika jina la kundi (specie)</string>
+    <string name="option1">Hawajala wazima</string>
+    <string name="option2">Wamekula wazima</string>
+    <string name="option3">Hawajala wamekufa</string>
+    <string name="option4">Wamekula wamekufa</string>
+    <string name="option5">Wanamayai wazima</string>
+    <string name="option6">Wanamayai wamekufa</string>
+    <string name="error_1">Please respond to Entry 1</string>
+    <string name="error_2">Please respond to Entry 2</string>
+    <string name="submit">wasilisha</string>
+    <string name="another">Jaza fomu nyingine</string>
+    <string name="all_entry">Ingizo lote</string>
+    <string name="smessage">Asante! Fomu imewasilishwa</string>
+
+    <string-array name="dist_no">
+        <item>Haijachaguliwa</item>
+        <item>D1</item>
+        <item>D2</item>
+        <item>D3</item>
+        <item>D4</item>
+        <item>D5</item>
+    </string-array>
+    <string-array name="ward_no">
+        <item>Haijachaguliwa</item>
+        <item>W1</item>
+        <item>W2</item>
+        <item>W3</item>
+        <item>W4</item>
+        <item>W5</item>
+    </string-array>
+    <string-array name="hamlet_no">
+        <item>Haijachaguliwa</item>
+        <item>H1</item>
+        <item>H2</item>
+        <item>H3</item>
+        <item>H4</item>
+        <item>H5</item>
+    </string-array>
+    <string-array name="trap_id">
+        <item>Haijachaguliwa</item>
+        <item>BG-trap</item>
+        <item>GAT-trap</item>
+        <item>Prockock-aspirator</item>
+    </string-array>
+</resources>

@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">MosQuitoCollection</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="ecologytool">MV-Ecology</string>
+    <string name="title_language">Language settings</string>
+    <string name="goodmorning">Good morning</string>
+    <string name="goodafternoon">Good afternoon</string>
+    <string name="goodevening">Good evening</string>
+    <string name="goodnight">Good night</string>
+    <string name="select_please">Please select language</string>
+    <string name="proceed">Proceed</string>
+    <string name="proceeds">Save &amp; Proceed</string>
+    <string name="prem">Preliminary data</string>
+    <string name="selectdistrict">Select District Number</string>
+    <string name="selectHamlet">Select Hamlet Number</string>
+    <string name="selectWard">Select Ward Number</string>
+    <string name="selecttrap">Select Trap Type</string>
+    <string name="houseno">House Number</string>
+    <string name="houseno_hint">Write house number</string>
+    <string name="name_officer">Entry officer Name</string>
+    <string name="pickdate">Pick Observation Date</string>
+    <string name="name_officerhint">Write the name of the entry officer</string>
+    <string name="currenttime">Selected Date: </string>
+    <string name="want">Do you want to</string>
+    <string name="save">save &amp; proceed ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="part1">Part One</string>
+    <string name="part2">Part Two</string>
+    <string name="part3">Part Three</string>
+    <string name="part4">Part Four</string>
+    <string name="aedes1">Aedes aegypti aegypti (01)</string>
+    <string name="aedes2">Aedes egypti formosus (02)</string>
+    <string name="anoph">Anopheles stephensi (03)</string>
+    <string name="alba">Aedes albopictus (04)</string>
+    <string name="gambi">Anopheles gambiae (05)</string>
+    <string name="culex">Culex (06)</string>
+    <string name="other">Other (07)</string>
+    <string name="providename">Write specie name</string>
+    <string name="option1">Hawajala wazima</string>
+    <string name="option2">Wamekula wazima</string>
+    <string name="option3">Hawajala wamekufa</string>
+    <string name="option4">Wamekula wamekufa</string>
+    <string name="option5">Wanamayai wazima</string>
+    <string name="option6">Wanamayai wamekufa</string>
+    <string name="error_1">Please respond to Entry 1</string>
+    <string name="error_2">Please respond to Entry 2</string>
+    <string name="submit">submit</string>
+    <string name="another">Fill another form</string>
+    <string name="all_entry">All entries</string>
+    <string name="smessage">Thank you! The Form has been submitted successfully</string>
+
+    <string-array name="dist_no">
+        <item>Not selected</item>
+        <item>D1</item>
+        <item>D2</item>
+        <item>D3</item>
+        <item>D4</item>
+        <item>D5</item>
+    </string-array>
+    <string-array name="ward_no">
+        <item>Not selected</item>
+        <item>W1</item>
+        <item>W2</item>
+        <item>W3</item>
+        <item>W4</item>
+        <item>W5</item>
+    </string-array>
+    <string-array name="hamlet_no">
+        <item>Not selected</item>
+        <item>H1</item>
+        <item>H2</item>
+        <item>H3</item>
+        <item>H4</item>
+        <item>H5</item>
+    </string-array>
+    <string-array name="trap_id">
+        <item>Not selected</item>
+        <item>BG-trap</item>
+        <item>GAT-trap</item>
+        <item>Prockock-aspirator</item>
+    </string-array>
+</resources>
